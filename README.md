@@ -1,6 +1,6 @@
 # Coding Challenge: API da 42 em C <br>
 
-Primeiro é necessário colocar as suas chaves (UID e SECRET) no o arquivo studen_data.h (linhas 31 e 32)<br>
+Primeiro é necessário colocar as suas chaves (**UID e SECRET**) no o arquivo **studen_data.h** (**linhas 31 e 32**)<br>
 Aplicação CLI para busca de alunos utilizando a api da 42 (https://api.intra.42.fr/)<br>
 A aplicação recebe:<br>
 1. Um argumento:<br>
